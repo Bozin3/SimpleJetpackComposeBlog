@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JetpackComposeBlog</string>
+    <string name="enter_username">Enter username.</string>
+    <string name="enter_password">Enter password.</string>
+    <string name="log_in">Log in</string>
+    <string name="jetpack_compose_blog">Jetpack compose blog</string>
+    <string name="refresh">Refresh</string>
+    <string name="log_out">Log out</string>
+    <string name="add_post">Add post</string>
+    <string name="profile_pic">Profile pic</string>
+    <string name="delete_post">Delete post</string>
+    <string name="enter_message">Enter message…</string>
+    <string name="please_fill_all_fields">Please fill all fields!</string>
+    <string name="unexpected_error_occured">An unexpected error occurred</string>
+    <string name="wrong_username_password">Wrong username/password credentials, please try again.</string>
+    <string name="network_exception">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="invalid_input_data_please_try_again">Invalid input data, please try again.</string>
+    <string name="unauthorized_make_sure_you_are_logged_in">Unauthorized, please make sure you are logged in.</string>
+    <string name="please_enter_some_content">Please enter some content.</string>
+</resources>
